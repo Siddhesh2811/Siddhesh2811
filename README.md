@@ -1,7 +1,7 @@
 Hi 👋 My name is Siddhesh Wani
 ==============================
 
-Web Developer and Designer
+Software Developer
 --------------------------
 
 Aspiring Developer | Open to Freelance or Internships | Third Year IT Engineering Student | Experienced with Web Development | Familiar with C, C++, Java and Python
